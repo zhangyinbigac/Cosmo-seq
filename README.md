@@ -1,1 +1,2 @@
-# Cosmo-seq
+# Cosmo-seq Enables Scalable Cost-efficient Spatial Transcriptomics
+Mapping molecular positions in tissue is essential for understanding development and physiology.  Here, we introduce Cosmo-seq, a cost-effective, scalable microwell-based spatial transcriptomics method enabled by custom split-pool barcoded beads and hybridization-based decoding.  Cosmo-seq achieves near single-cell resolution across large fields at a small fraction of the cost, enabling precise spatial gene expression profiling.  Applied to mouse whole brains and embryos during organogenesis, Cosmo-seq reveals cell-type organization and maturation trajectories, and generates a high-resolution spatiotemporal transcriptomic atlas.
